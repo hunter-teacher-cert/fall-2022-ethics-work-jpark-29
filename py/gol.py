@@ -15,7 +15,7 @@ def createNewBoard(numRows, numCols):
       row.append('-')
 
     board.append(row)
-  
+
   return board
 
 
